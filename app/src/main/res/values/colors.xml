@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="calculator_gray">#E6E6E6</color>
+    <color name="calculator_button">#ECECEC</color>
+    <color name="calculator_text">#000000</color>
+</resources>
